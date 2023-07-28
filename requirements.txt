@@ -1,0 +1,4 @@
+black
+torch
+pylint
+huggingface-hub
