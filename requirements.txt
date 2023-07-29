@@ -1,4 +1,5 @@
-black
 torch
+transformers
 pylint
-huggingface-hub
+black
+ipython
